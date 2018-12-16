@@ -1,0 +1,25 @@
+{
+  "name": "email-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bazha/node-email.git"
+  },
+  "author": "Arthur Bazhanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bazha/node-email/issues"
+  },
+  "homepage": "https://github.com/bazha/node-email#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemailer": "^4.7.0",
+    "nodemon": "^1.18.9"
+  }
+}
