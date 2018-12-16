@@ -1,0 +1,19 @@
+{
+  "name": "expressession",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bazha/session.git"
+  },
+  "author": "Arthur Bazhanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bazha/session/issues"
+  },
+  "homepage": "https://github.com/bazha/session#readme"
+}
