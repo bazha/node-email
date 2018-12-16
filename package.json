@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/bazha/node-email#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "nodemailer": "^4.7.0",
     "nodemon": "^1.18.9"
